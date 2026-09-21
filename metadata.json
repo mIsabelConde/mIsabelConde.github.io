@@ -1,0 +1,6 @@
+{
+  "name": "Inteligencia Artificial en la Programación",
+  "description": "Plataforma educativa y experimental sobre Inteligencia Artificial en la Programación, Machine Learning y Data Science. Autora: María Isabel Conde Altamirano (Docente de Programación).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
